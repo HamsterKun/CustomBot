@@ -241,6 +241,12 @@ def Reply(data: eventclass.Message,Host):
     if replyMsg.find("$NULL$") >= 0:
         replyMsg = ""
 
+    #虽然CustomBot与MocoBot均开源MIT协议
+    #但我们还是不建议您改动此处代码
+    #因为这是对代码贡献者的尊重，谢谢
+    if data.raw_message.find("/Core") >= 0 or data.raw_message.find("/core") >= 0 or data.raw_message.find("/Support") >= 0 or data.raw_message.find("/support") >= 0:
+        replyMsg = "CoreSupport By MocoBot\nPluginSupport By CustomBot\nThanks For Trying!"
+
     if isinstance(data,eventclass.GroupMessage):
         Action.SendMsg(msg=replyMsg, type=data.message_type, Host=Host, id=data.group_id)
     else:
