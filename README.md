@@ -12,12 +12,12 @@
 - Commands.cf
 - Config.json
 - Permission.yml
-- Tutorial.md
+- README.md
 
 &emsp;&emsp;以及一个文件夹：
 - UserData
 
-&emsp;&emsp;我们先来了解他们各自是干什么的，“\_\_init\_\_.py”是插件的源代码文件，在您没有编程能力的前提下我们并不建议您改动其中的内容，对其的改动可能造成插件无法正常运行；而“Commands.cf”是Bot的指令集文件，也是您要编写的文件；“Permission.yml”是Bot的权限组文件，内部储存不同用户对Bot的使用权限；“Config.json”中存储的是Bot的基础配置信息，其中的内容并不难懂，在接下来的内容中将会教您如何配置“Config.json”中的内容；而“Tutorial.md”则是您正在阅读的教程文件。至于“UserData”文件夹则是给您存放Bot需要用到的文件的目录。
+&emsp;&emsp;我们先来了解他们各自是干什么的，“\_\_init\_\_.py”是插件的源代码文件，在您没有编程能力的前提下我们并不建议您改动其中的内容，对其的改动可能造成插件无法正常运行；而“Commands.cf”是Bot的指令集文件，也是您要编写的文件；“Permission.yml”是Bot的权限组文件，内部储存不同用户对Bot的使用权限；“Config.json”中存储的是Bot的基础配置信息，其中的内容并不难懂，在接下来的内容中将会教您如何配置“Config.json”中的内容；而“README.md”则是您正在阅读的教程文件。至于“UserData”文件夹则是给您存放Bot需要用到的文件的目录。
 
 #### 配置CustomBot：
 
