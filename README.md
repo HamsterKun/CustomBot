@@ -1,6 +1,6 @@
 # <center>《CustomBot插件完全教程》</center>
 ### <center>前言：什么是CustomBot？我为什么要使用它？</center>
-&emsp;&emsp;CustomBot是一款基于MocoBot框架([MocoOwO/MocoBot](github.com/MocoOwO/MocoBot))开发的快速实现基于关键词匹配的Bot搭建的插件，CustomBot具有**简洁**，**高效**，**快捷**等优点，让您可以在花费最少的时间下搭建出功能完整，运行稳定的QQBot；加之MocoBot框架自身的便捷性，可以让您在数分钟内即可实现Bot的从开发到部署的工作。CustomBot自身使用的指令语言简单易懂，使用轻松，短短几行便可实现许多功能复杂的对话功能，并且支持多预制随机回复，本地文件存储与管理，权限组等多种功能，帮助您随时随地DIY出属于您自己的QQBot。如果您厌倦了使用别人制作好的Bot，那么请尽情使用MocoBot＋CustomBot创作出属于您自己的作品吧！
+&emsp;&emsp;CustomBot是一款基于MocoBot框架([MocoOwO/MocoBot](https://github.com/MocoOwO/MocoBot))开发的快速实现基于关键词匹配的Bot搭建的插件，CustomBot具有**简洁**，**高效**，**快捷**等优点，让您可以在花费最少的时间下搭建出功能完整，运行稳定的QQBot；加之MocoBot框架自身的便捷性，可以让您在数分钟内即可实现Bot的从开发到部署的工作。CustomBot自身使用的指令语言简单易懂，使用轻松，短短几行便可实现许多功能复杂的对话功能，并且支持多预制随机回复，本地文件存储与管理，权限组等多种功能，帮助您随时随地DIY出属于您自己的QQBot。如果您厌倦了使用别人制作好的Bot，那么请尽情使用MocoBot＋CustomBot创作出属于您自己的作品吧！
 
 ----------------------------------------------------------------------
 
