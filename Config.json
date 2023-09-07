@@ -1,0 +1,25 @@
+{
+    /*
+        GroupReplyMode:
+            -AT : 只在被@时相应回复
+            -Any : 只要接收到消息就回复不用被@（不推荐，容易刷屏）
+    */
+    "GroupReplyMode":"AT",
+    /*
+        机器人的QQ号
+        不配置会导致AT模式无法使用
+    */
+    "BotQQ":"",
+    //您Bot对自己的自称
+    "BotClaiming":"",
+    //Bot主人的名字
+    "BotOwner":"",
+    //在未触发任何关键词时的回复
+    "UnknowMsgReply":"",
+    //Bot消息命令各部分的分隔符，推荐使用空格
+    "CommandSplitCode":" ",
+    //Bot消息命令触发符号
+    "CommandStart":"/",
+    //Bot消息过滤器，消息内容包含过滤器内词汇时Bot会忽视该条消息
+    "Filter":[]
+}
